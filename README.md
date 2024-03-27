@@ -7,3 +7,5 @@
 - Custom Error Handling with Async error handling module
 - Authentication using JWT
 - JWT token structure
+- Bearer Tokens
+-
