@@ -9,4 +9,6 @@
 - JWT token structure
 - Bearer Tokens
 - Auth Headers
+- Creating custom middleware to authenticate token for portability
+- Accepting tokens from Headers
 - Token Verification
