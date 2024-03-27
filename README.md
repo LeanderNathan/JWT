@@ -8,4 +8,5 @@
 - Authentication using JWT
 - JWT token structure
 - Bearer Tokens
--
+- Auth Headers
+- Token Verification
